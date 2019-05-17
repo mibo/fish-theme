@@ -13,6 +13,10 @@ omf install https://github.com/mibo/fish-theme
   * Pretty colors
   * Two line prompt
 
+### My (mibo) changes
+  
+  * Changed layout to fit my personal preferences
+
 ## License
 
 [MIT][mit] © [mibo][author]; Thanks to [nelsonjchen][] and all others.
